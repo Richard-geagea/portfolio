@@ -1,0 +1,25 @@
+img{
+    height: 120px;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+
+}
+.inputs{
+    padding: 10px;
+}
+.values, .values-btn{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+
+
+@media(max-width: 412px){
+     body{
+  font-size: 24px;
+     }
+}
